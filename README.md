@@ -1,5 +1,5 @@
 # USA Top Visiting Place Information Verifier
-Various information about some top popular tourist spot is USA, is collected from various website and this the dataset is prepared. Various data preprocessing techniques are performed on the data and machine learning algorithm is used for classification.
+Various information about some top popular tourist spot of  USA, are collected from various website and this way the dataset is prepared. Various data preprocessing techniques are performed on the data and machine learning algorithm is used for classification.
 
 ## Tools used:
 1. Python 
